@@ -1,0 +1,523 @@
+
+[
+  {
+    "First Name": "Jane",
+    "Last Name": "Doe",
+    "Birth Date": "7/30/1983",
+    "University": "University of Wyoming",
+    "SchoolID": 18901839,
+    "DegreeType": "Bachelor's Science",
+    "DegreeAwarded": "Biology",
+    "YearAchived": 2022
+  },
+  {
+    "First Name": "John",
+    "Last Name": "Doe",
+    "Birth Date": "12/6/1993",
+    "University": "University of Wyoming",
+    "SchoolID": 10285293,
+    "DegreeType": "Associates Arts",
+    "DegreeAwarded": "English",
+    "YearAchived": 2005
+  },
+  {
+    "First Name": "Cowboy",
+    "Last Name": "Joe",
+    "Birth Date": "6/16/1981",
+    "University": "University of Wyoming",
+    "SchoolID": 18084829,
+    "DegreeType": "Master's Science",
+    "DegreeAwarded": "Physics",
+    "YearAchived": 2017
+  },
+  {
+    "First Name": "Cowgirl",
+    "Last Name": "Joe",
+    "Birth Date": "5/19/1970",
+    "University": "University of Wyoming",
+    "SchoolID": 19204882,
+    "DegreeType": "Associates Science",
+    "DegreeAwarded": "Physics",
+    "YearAchived": 2020
+  },
+  {
+    "First Name": "Jesse",
+    "Last Name": "Spencer",
+    "Birth Date": "2/19/1977",
+    "University": "University of Wyoming",
+    "SchoolID": 18492882,
+    "DegreeType": "Associates Arts",
+    "DegreeAwarded": "Pshycology",
+    "YearAchived": 2019
+  },
+  {
+    "First Name": "Taylor",
+    "Last Name": "Peterson",
+    "Birth Date": "6/26/1976",
+    "University": "University of Wyoming",
+    "SchoolID": 10288570,
+    "DegreeType": "PhD",
+    "DegreeAwarded": "Computer Science",
+    "YearAchived": 2010
+  },
+  {
+    "First Name": "Jack",
+    "Last Name": "Justin",
+    "Birth Date": "10/17/1986",
+    "University": "University of Wyoming",
+    "SchoolID": 10027482,
+    "DegreeType": "Bachelor's Science",
+    "DegreeAwarded": "Biology",
+    "YearAchived": 2008
+  },
+  {
+    "First Name": "Nathan",
+    "Last Name": "Steeves",
+    "Birth Date": "10/16/1985",
+    "University": "University of Wyoming",
+    "SchoolID": 10002937,
+    "DegreeType": "Associates Science",
+    "DegreeAwarded": "Physics",
+    "YearAchived": 2001
+  },
+  {
+    "First Name": "Jessica",
+    "Last Name": "Juro",
+    "Birth Date": "3/17/1993",
+    "University": "University of Wyoming",
+    "SchoolID": 10000019,
+    "DegreeType": "Master's Arts",
+    "DegreeAwarded": "Pshycology",
+    "YearAchived": 1990
+  },
+  {
+    "First Name": "Tad",
+    "Last Name": "Scudder",
+    "Birth Date": "3/2/1975",
+    "University": "University of Wyoming",
+    "SchoolID": 12388295,
+    "DegreeType": "Associates Science",
+    "DegreeAwarded": "Physics",
+    "YearAchived": 1999
+  },
+  {
+    "First Name": "Anna",
+    "Last Name": "Stevens",
+    "Birth Date": "9/17/1971",
+    "University": "University of Wyoming",
+    "SchoolID": 12912748,
+    "DegreeType": "Master's Science",
+    "DegreeAwarded": "Biology",
+    "YearAchived": 2012
+  },
+  {
+    "First Name": "Ethan",
+    "Last Name": "Carlson",
+    "Birth Date": "3/30/1982",
+    "University": "University of Wyoming",
+    "SchoolID": 15928843,
+    "DegreeType": "Bachelor's Science",
+    "DegreeAwarded": "Physics",
+    "YearAchived": 2001
+  },
+  {
+    "First Name": "Wyatt",
+    "Last Name": "Michaels",
+    "Birth Date": "11/22/1970",
+    "University": "University of Wyoming",
+    "SchoolID": 13599245,
+    "DegreeType": "Bachelor's Arts",
+    "DegreeAwarded": "English",
+    "YearAchived": 2000
+  },
+  {
+    "First Name": "Emily",
+    "Last Name": "Johnson",
+    "Birth Date": "3/22/1999",
+    "University": "University of Wyoming",
+    "SchoolID": 10123582,
+    "DegreeType": "Master's Arts",
+    "DegreeAwarded": "Pshycology",
+    "YearAchived": 2023
+  },
+  {
+    "First Name": "Kim",
+    "Last Name": "Stone",
+    "Birth Date": "10/17/1988",
+    "University": "University of Wyoming",
+    "SchoolID": 10098352,
+    "DegreeType": "Bachelor's Science",
+    "DegreeAwarded": "Chemistry",
+    "YearAchived": 2021
+  },
+  {
+    "First Name": "Josie",
+    "Last Name": "Garcia",
+    "Birth Date": "6/23/1992",
+    "University": "University of Wyoming",
+    "SchoolID": 10252774,
+    "DegreeType": "Master's Science",
+    "DegreeAwarded": "Physics",
+    "YearAchived": 2016
+  },
+  {
+    "First Name": "Olivia",
+    "Last Name": "Heart",
+    "Birth Date": "12/31/1989",
+    "University": "University of Wyoming",
+    "SchoolID": 10230266,
+    "DegreeType": "Associates Science",
+    "DegreeAwarded": "Chemistry",
+    "YearAchived": 2015
+  },
+  {
+    "First Name": "Harry",
+    "Last Name": "Potter",
+    "Birth Date": "8/23/1982",
+    "University": "University of Wyoming",
+    "SchoolID": 10002355,
+    "DegreeType": "Associates Science",
+    "DegreeAwarded": "Physics",
+    "YearAchived": 2013
+  },
+  {
+    "First Name": "Jackson",
+    "Last Name": "Carson",
+    "Birth Date": "12/27/1972",
+    "University": "University of Wyoming",
+    "SchoolID": 10093252,
+    "DegreeType": "Bachelor's Science",
+    "DegreeAwarded": "Chemistry",
+    "YearAchived": 2008
+  },
+  {
+    "First Name": "Reese",
+    "Last Name": "Vance",
+    "Birth Date": "4/21/1994",
+    "University": "University of Wyoming",
+    "SchoolID": 12414519,
+    "DegreeType": "Associates Science",
+    "DegreeAwarded": "Biology",
+    "YearAchived": 2006
+  },
+  {
+    "First Name": "Macie",
+    "Last Name": "Jane",
+    "Birth Date": "2/7/1959",
+    "University": "University of Wyoming",
+    "SchoolID": 13190223,
+    "DegreeType": "Associates Arts",
+    "DegreeAwarded": "English",
+    "YearAchived": 2004
+  },
+  {
+    "First Name": "Karlee",
+    "Last Name": "Camble",
+    "Birth Date": "9/15/1983",
+    "University": "University of Wyoming",
+    "SchoolID": 13208746,
+    "DegreeType": "Master's Arts",
+    "DegreeAwarded": "Pshycology",
+    "YearAchived": 2012
+  },
+  {
+    "First Name": "Megan",
+    "Last Name": "Steeves",
+    "Birth Date": "9/11/1985",
+    "University": "University of Wyoming",
+    "SchoolID": 10502093,
+    "DegreeType": "Bachelor's Science",
+    "DegreeAwarded": "Computer Science",
+    "YearAchived": 2022
+  },
+  {
+    "First Name": "Kellen",
+    "Last Name": "Mentock",
+    "Birth Date": "7/29/1980",
+    "University": "University of Wyoming",
+    "SchoolID": 10432611,
+    "DegreeType": "Bachelor's Science",
+    "DegreeAwarded": "Computer Science",
+    "YearAchived": 2022
+  },
+  {
+    "First Name": "Tamara",
+    "Last Name": "Linse",
+    "Birth Date": "2/13/1984",
+    "University": "University of Wyoming",
+    "SchoolID": 10000923,
+    "DegreeType": "Bachelor's Science",
+    "DegreeAwarded": "Computer Science",
+    "YearAchived": 2022
+  },
+  {
+    "First Name": "Selma",
+    "Last Name": "Samet",
+    "Birth Date": "10/27/2002",
+    "University": "University of Wyoming",
+    "SchoolID": 11018991,
+    "DegreeType": "Bachelor's Science",
+    "DegreeAwarded": "Computer Science",
+    "YearAchived": 2022
+  },
+  {
+    "First Name": "Ian",
+    "Last Name": "Wright",
+    "Birth Date": "2/25/1973",
+    "University": "University of Wyoming",
+    "SchoolID": 11131266,
+    "DegreeType": "Master's Science",
+    "DegreeAwarded": "Chemistry",
+    "YearAchived": 2013
+  },
+  {
+    "First Name": "Liam",
+    "Last Name": "Benson",
+    "Birth Date": "1/30/2000",
+    "University": "University of Wyoming",
+    "SchoolID": 12854477,
+    "DegreeType": "Associates Arts",
+    "DegreeAwarded": "History",
+    "YearAchived": 2022
+  },
+  {
+    "First Name": "Beau",
+    "Last Name": "Jackson",
+    "Birth Date": "1/18/1986",
+    "University": "University of Wyoming",
+    "SchoolID": 16141681,
+    "DegreeType": "Bachelor's Science",
+    "DegreeAwarded": "Physics",
+    "YearAchived": 2017
+  },
+  {
+    "First Name": "Tommy",
+    "Last Name": "Guerrio",
+    "Birth Date": "8/23/1999",
+    "University": "University of Wyoming",
+    "SchoolID": 15896507,
+    "DegreeType": "Bachelor's Arts",
+    "DegreeAwarded": "Pshycology",
+    "YearAchived": 2020
+  },
+  {
+    "First Name": "Wade",
+    "Last Name": "Sevenson",
+    "Birth Date": "9/22/1998",
+    "University": "University of Wyoming",
+    "SchoolID": 11774309,
+    "DegreeType": "Master's Arts",
+    "DegreeAwarded": "English",
+    "YearAchived": 2023
+  },
+  {
+    "First Name": "Luke",
+    "Last Name": "Miller",
+    "Birth Date": "8/7/1998",
+    "University": "University of Wyoming",
+    "SchoolID": 10023023,
+    "DegreeType": "Associates Science",
+    "DegreeAwarded": "Biology",
+    "YearAchived": 2021
+  },
+  {
+    "First Name": "Chris",
+    "Last Name": "Evans",
+    "Birth Date": "5/14/1966",
+    "University": "University of Wyoming",
+    "SchoolID": 10004732,
+    "DegreeType": "Bachelor's Arts",
+    "DegreeAwarded": "History",
+    "YearAchived": 1993
+  },
+  {
+    "First Name": "Molly",
+    "Last Name": "Michaels",
+    "Birth Date": "3/6/2000",
+    "University": "University of Wyoming",
+    "SchoolID": 10023020,
+    "DegreeType": "Bachelor's Science",
+    "DegreeAwarded": "Chemistry",
+    "YearAchived": 2021
+  },
+  {
+    "First Name": "Holly",
+    "Last Name": "Painter",
+    "Birth Date": "3/5/1995",
+    "University": "University of Wyoming",
+    "SchoolID": 12288025,
+    "DegreeType": "PhD",
+    "DegreeAwarded": "Computer Science",
+    "YearAchived": 2022
+  },
+  {
+    "First Name": "Morgan",
+    "Last Name": "Moody",
+    "Birth Date": "10/7/1995",
+    "University": "University of Wyoming",
+    "SchoolID": 10000012,
+    "DegreeType": "Bachelor's Science",
+    "DegreeAwarded": "Computer Science",
+    "YearAchived": 2021
+  },
+  {
+    "First Name": "Hope",
+    "Last Name": "Harper",
+    "Birth Date": "8/16/1977",
+    "University": "University of Wyoming",
+    "SchoolID": 10009342,
+    "DegreeType": "Master's Science",
+    "DegreeAwarded": "Biology",
+    "YearAchived": 2002
+  },
+  {
+    "First Name": "Jane",
+    "Last Name": "Christie",
+    "Birth Date": "2/15/1995",
+    "University": "University of Wyoming",
+    "SchoolID": 10049235,
+    "DegreeType": "Bachelor's Science",
+    "DegreeAwarded": "Chemistry",
+    "YearAchived": 2015
+  },
+  {
+    "First Name": "Kelly",
+    "Last Name": "Clarkson",
+    "Birth Date": "3/27/1990",
+    "University": "University of Wyoming",
+    "SchoolID": 17158657,
+    "DegreeType": "Master's Arts",
+    "DegreeAwarded": "Pshycology",
+    "YearAchived": 2012
+  },
+  {
+    "First Name": "Alex",
+    "Last Name": "Knight",
+    "Birth Date": "1/8/1996",
+    "University": "University of Wyoming",
+    "SchoolID": 13229646,
+    "DegreeType": "Bachelor's Arts",
+    "DegreeAwarded": "English",
+    "YearAchived": 2017
+  },
+  {
+    "First Name": "Cameron",
+    "Last Name": "Deer",
+    "Birth Date": "2/4/2001",
+    "University": "University of Wyoming",
+    "SchoolID": 16164914,
+    "DegreeType": "Associates Science",
+    "DegreeAwarded": "Biology",
+    "YearAchived": 2023
+  },
+  {
+    "First Name": "Brooke",
+    "Last Name": "Thomas",
+    "Birth Date": "6/20/1975",
+    "University": "University of Wyoming",
+    "SchoolID": 13156369,
+    "DegreeType": "Master's Arts",
+    "DegreeAwarded": "History",
+    "YearAchived": 2010
+  },
+  {
+    "First Name": "McKenna",
+    "Last Name": "James",
+    "Birth Date": "1/31/1996",
+    "University": "University of Wyoming",
+    "SchoolID": 11571304,
+    "DegreeType": "Bachelor's Science",
+    "DegreeAwarded": "Chemistry",
+    "YearAchived": 2013
+  },
+  {
+    "First Name": "Linda",
+    "Last Name": "Grey",
+    "Birth Date": "10/19/1982",
+    "University": "University of Wyoming",
+    "SchoolID": 11399108,
+    "DegreeType": "Master's Arts",
+    "DegreeAwarded": "History",
+    "YearAchived": 2016
+  },
+  {
+    "First Name": "Kevin",
+    "Last Name": "Grey",
+    "Birth Date": "6/20/1982",
+    "University": "University of Wyoming",
+    "SchoolID": 18474868,
+    "DegreeType": "Bachelor's Science",
+    "DegreeAwarded": "Physics",
+    "YearAchived": 2021
+  },
+  {
+    "First Name": "Karen",
+    "Last Name": "Smith",
+    "Birth Date": "9/17/1975",
+    "University": "University of Wyoming",
+    "SchoolID": 10232944,
+    "DegreeType": "Master's Science",
+    "DegreeAwarded": "Biology",
+    "YearAchived": 2020
+  },
+  {
+    "First Name": "Neil",
+    "Last Name": "Jackson",
+    "Birth Date": "11/18/1994",
+    "University": "University of Wyoming",
+    "SchoolID": 10441689,
+    "DegreeType": "Associates Arts",
+    "DegreeAwarded": "History",
+    "YearAchived": 2018
+  },
+  {
+    "First Name": "Sam",
+    "Last Name": "Cole",
+    "Birth Date": "2/28/1985",
+    "University": "University of Wyoming",
+    "SchoolID": 15886062,
+    "DegreeType": "Bachelor's Science",
+    "DegreeAwarded": "Physics",
+    "YearAchived": 2019
+  },
+  {
+    "First Name": "Faith",
+    "Last Name": "Drake",
+    "Birth Date": "7/13/1998",
+    "University": "University of Wyoming",
+    "SchoolID": 15672202,
+    "DegreeType": "Associates Science",
+    "DegreeAwarded": "Chemistry",
+    "YearAchived": 2020
+  },
+  {
+    "First Name": "Alvin",
+    "Last Name": "Mitchell",
+    "Birth Date": "7/23/1978",
+    "University": "University of Wyoming",
+    "SchoolID": 17664838,
+    "DegreeType": "PhD",
+    "DegreeAwarded": "Biology",
+    "YearAchived": 2001
+  },
+  {
+    "First Name": "Welma",
+    "Last Name": "Redson",
+    "Birth Date": "10/10/2005",
+    "University": "University of Wyoming",
+    "SchoolID": 12904744,
+    "DegreeType": "Master's Arts",
+    "DegreeAwarded": "English",
+    "YearAchived": 2024
+  },
+  {
+    "First Name": "Jay",
+    "Last Name": "Jackson",
+    "Birth Date": "2/12/2004",
+    "University": "University of Wyoming",
+    "SchoolID": 10406570,
+    "DegreeType": "Bachelor's Science",
+    "DegreeAwarded": "Computer Science",
+    "YearAchived": 2024
+  }
+]
